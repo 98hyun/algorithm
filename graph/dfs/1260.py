@@ -57,7 +57,7 @@ for _ in range(m):
     graph[a].append(b)
     graph[b].append(a)
     
-for line in edge:
+for line in graph:
     line.sort()
 
 def dfs(v):
@@ -65,7 +65,8 @@ def dfs(v):
     print(v,end=' ')
     for i in graph[v]:
         if not visited[i]:
-            dfs(v)
+            visited[i]=True
+            dfs(i)
 
 def bfs(v):
     need_visited=[0]*(n+1)
@@ -76,9 +77,9 @@ def bfs(v):
         q=queue.pop(0)
         print(q,end=' ')
         for i in graph[q]:
-            if not need_visited[q]:
-                queue.append(graph[q])
-                need_visited[q]=1
+            if not need_visited[i]:
+                queue.append(i)
+                need_visited[i]=1
 dfs(v)
 print()
 bfs(v)
