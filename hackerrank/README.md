@@ -6,6 +6,7 @@
 <li>20210414 - sql(right(Name,3) 오른쪽에서 3개 slice, from information_schema.tables : 어디서든 가능한 table. mysql 서버의 table이라고 공부했다. set @ var; 변수설정 ,repeat(str,num) str을 num만큼 반복 num에 @num:=@num-1 하고 했다. ), re(\b는 공간사이와 공간, (ok){3,}? ok 3번이상 쓰였는지) </li>
 <li>20210415 - hackerrank 30days of code 1일차., sql (case when-then else end 다섯가지 사용, avg sum count round ceil replace(col,'str','replace'), count(*) 뜻은 행의 수 그래서 group by가 필요 할 수있다.) re( group ()와\1 사용 ) coding interview kit도 시작.</li>
 <li>20210416 - sql(truncate 버리는건데 검색하면 테이블의 행을 버리라고 하고, 소수점을 버릴 수도 있다? 더 찾아보기. where between 깔끔하게 사용. 어떤식의 조건이 될때, select문을 다시 사용가능하다.), re(oo뒤에 o가 나오나? oo(?=o) 전방 negative (?!) 후방탐색 (?<=\$)[0-9.]+ $뒤에 숫자나오나? (?<!>)안나오나?) </li>
+<li>20210417 - sql(group by , join , if(만족하면,yes,아니면 no) , re (html tag parser)</li>
 </blockquote>
 </details>
 
