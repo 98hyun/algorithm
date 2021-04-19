@@ -7,7 +7,8 @@
 <li>20210415 - hackerrank 30days of code 1일차., sql (case when-then else end 다섯가지 사용, avg sum count round ceil replace(col,'str','replace'), count(*) 뜻은 행의 수 그래서 group by가 필요 할 수있다.) re( group ()와\1 사용 ) coding interview kit도 시작.</li>
 <li>20210416 - sql(truncate 버리는건데 검색하면 테이블의 행을 버리라고 하고, 소수점을 버릴 수도 있다? 더 찾아보기. where between 깔끔하게 사용. 어떤식의 조건이 될때, select문을 다시 사용가능하다.), re(oo뒤에 o가 나오나? oo(?=o) 전방 negative (?!) 후방탐색 (?<=\$)[0-9.]+ $뒤에 숫자나오나? (?<!>)안나오나?) </li>
 <li>20210417 - sql(group by , join , if(만족하면,yes,아니면 no) , re (html tag parser)</li>
-<li>20210418 - re( html tag - sub와 re.I,re.S같은 태그들의 사용. ), sql (set @var;과 부정형조인 not exist - null처리에 대해 in과 다르다. exist는 true인지 false인지 먼저 확인 후 보여주기 때문에 null을 반환. mod(n,d) n을 d로 나눈 나머지)
+<li>20210418 - re( html tag - sub와 re.I,re.S같은 태그들의 사용. ), sql (set @var;과 부정형조인 not exist - null처리에 대해 in과 다르다. exist는 true인지 false인지 먼저 확인 후 보여주기 때문에 null을 반환. mod(n,d) n을 d로 나눈 나머지)</li>
+<li>20210419 - sql(manhattan distance - abs()),re(구간 사이가 아닌 단어들 속의 query를 찾는다. \B이용. \b는 구간사이</li>
 </blockquote>
 </details>
 
