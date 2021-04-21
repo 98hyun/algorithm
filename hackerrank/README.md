@@ -10,6 +10,7 @@
 <li>20210418 - re( html tag - sub와 re.I,re.S같은 태그들의 사용. ), sql (set @var;과 부정형조인 not exist - null처리에 대해 in과 다르다. exist는 true인지 false인지 먼저 확인 후 보여주기 때문에 null을 반환. mod(n,d) n을 d로 나눈 나머지)</li>
 <li>20210419 - sql(manhattan distance - abs()),re(구간 사이가 아닌 단어들 속의 query를 찾는다. \B이용. \b는 구간사이</li>
 <li>20210420 - sql(pow,sqrt),re(ipv4,ipv6 parsing) </li>
+<li>20210421 - sql(pivot , case when 사용으로 했다. 문제 다시 풀어볼것.) re(email valid)</li>
 </blockquote>
 </details>
 
