@@ -11,6 +11,7 @@
 <li>20210419 - sql(manhattan distance - abs()),re(구간 사이가 아닌 단어들 속의 query를 찾는다. \B이용. \b는 구간사이</li>
 <li>20210420 - sql(pow,sqrt),re(ipv4,ipv6 parsing) </li>
 <li>20210421 - sql(pivot , case when 사용으로 했다. 문제 다시 풀어볼것.) re(email valid)</li>
+<li>20210422 - sql(복습) re(group)</li>
 </blockquote>
 </details>
 
