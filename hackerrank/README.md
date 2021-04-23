@@ -12,6 +12,7 @@
 <li>20210420 - sql(pow,sqrt),re(ipv4,ipv6 parsing) </li>
 <li>20210421 - sql(pivot , case when 사용으로 했다. 문제 다시 풀어볼것.) re(email valid)</li>
 <li>20210422 - sql(복습) re(group)</li>
+<li>20210423 - sql(복습 regexp like 등) re(select 끝)</li>
 </blockquote>
 </details>
 
