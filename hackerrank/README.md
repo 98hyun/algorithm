@@ -13,6 +13,7 @@
 <li>20210421 - sql(pivot , case when 사용으로 했다. 문제 다시 풀어볼것.) re(email valid)</li>
 <li>20210422 - sql(복습) re(group)</li>
 <li>20210423 - sql(복습 regexp like 등) re(select 끝)</li>
+<li>20210424 - sql(복습 case when then end sql은 접근할때 행으로 접근) re(복습)</li>
 </blockquote>
 </details>
 
