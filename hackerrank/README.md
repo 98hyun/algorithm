@@ -16,6 +16,7 @@
 <li>20210424 - sql(복습 case when then end sql은 접근할때 행으로 접근) re(복습)</li>
 <li>20210425 - sql,re (복습)</li>
 <li>20210426 - sql,re (복습)</li>
+<li>20210427 - sql,re (복습)</li>
 </blockquote>
 </details>
 
