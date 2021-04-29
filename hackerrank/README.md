@@ -18,6 +18,7 @@
 <li>20210426 - sql,re (복습)</li>
 <li>20210427 - sql,re (복습)</li>
 <li>20210428 - sql,re (복습)</li>
+<li>20210429 - sql,re (복습)</li>
 </blockquote>
 </details>
 
