@@ -23,6 +23,7 @@
 <li>20210501 - algorithm,re (복습)</li>
 <li>20210503 - algorithm,re (복습)</li>
 <li>20210504 - algorithm,re (복습)</li>
+<li>20210506 - algorithm,re (복습)</li>
 </blockquote>
 </details>
 
