@@ -34,6 +34,7 @@
 <li>20210514 - algorithm array</li>
 <li>20210515 - algorithm array</li>
 <li>20210516 - algorithm hash</li>
+<li>20210517 - algorithm hash</li>
 </blockquote>
 </details>
 
